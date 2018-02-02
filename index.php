@@ -1,10 +1,9 @@
 <?php 
-
+$sGreeting = 'Devops Test';
 
 
 
 ?>
 <html>
-<h1>This is a test</h1>
-<p>another test</p>
+    <h1><?echo $sGreeting;?></h1>
 </html>
