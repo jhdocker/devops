@@ -8,4 +8,5 @@ $sGreeting = 'Devops Test';
     <h1><?echo $sGreeting;?></h1>
     <p>testing server edit</p>
     <p>added third line</p>
+    <p>added fourth line</p>
 </html>
