@@ -1,3 +1,4 @@
 <?php 
-echo "This is a new branch";
+$test = 'Testing branching';
+echo $test;
 ?>
