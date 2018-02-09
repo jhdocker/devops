@@ -1,0 +1,2 @@
+brewery db api key
+f59944b7290ebf2a7ed02e88854fb6ad
